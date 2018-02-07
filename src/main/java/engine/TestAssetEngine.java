@@ -107,7 +107,6 @@ public class TestAssetEngine<T> {
         return unorderedArr;
     }
 
-
     /**
      * Generates an array of randomly-generated ordered integers.
      * @return the generated array.
@@ -188,7 +187,6 @@ public class TestAssetEngine<T> {
             this.upperBoundSize = upperBoundSize;
             return this;
         }
-
     }
 
 }
